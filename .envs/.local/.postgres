@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=supblog
+POSTGRES_USER=qdPrIdVuhOWpXGMxonkNWUVXjTkqBUGy
+POSTGRES_PASSWORD=ntdVFPM01y3f6HGTYJ4g7Fls9txugWxUBtnjKOFDdQXHiWgk76xBWbOpwHAAl2mU
